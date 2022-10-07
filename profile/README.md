@@ -18,8 +18,12 @@ Labs for our PowerShell Advanced Fundamentals course.
 
 ## Other projects members of the team maintains
 
+### [AzAuth](https://github.com/PalmEmanuel/AzAuth)
+A lightweight PowerShell module to handle Azure authentication, using the Azure.Identity library.
+https://www.powershellgallery.com/packages/AzAuth
+
 ### [AzBobbyTables](https://github.com/PalmEmanuel/AzBobbyTables)
-A PowerShell module based on the Azure Data Tables SDK.  
+A PowerShell module based on the Azure Data Tables SDK.
 The fastest way to use Azure Storage Tables from PowerShell?  
 https://www.powershellgallery.com/packages/AzBobbyTables
 
