@@ -52,15 +52,15 @@ Scan your code, files, folders, and repos for accidentily exposed secrets using 
 
 ## Projects members of this team are common contributors to
 
-### [AzOps](https://github.com/Azure/AzOps)
+### [Azure/AzOps](https://github.com/Azure/AzOps)
 AzOps is a PowerShell module which deploys (Push) Resource Templates & Bicep files at all Azure scope levels and exports (Pull) ARM resource hierarchy.
 
-### [AzOps-Accellerator](https://github.com/Azure/AzOps-Accelerator)
+### [Azure/AzOps-Accellerator](https://github.com/Azure/AzOps-Accelerator)
 This template repository helps you get started with the AzOps integrated CI/CD solution. It showcases how the AzOps can be used in Azure DevOps and GitHub to pull and push Azure resources such as policyDefinitions, policyAssignments and roleAssignments.
 
-### [Bicep](https://github.com/Azure/bicep)
+### [Azure/Bicep](https://github.com/Azure/bicep)
 Bicep is a declarative language for describing and deploying Azure resources.
 
-### [Microsoft-docs](https://github.com/MicrosoftDocs/azure-docs)
+### [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 Documentation is important and something we and our customers use on a daily basis. We value the fact that Microsoft has open sourced their documentation and we are happy to contribute to it.
 
