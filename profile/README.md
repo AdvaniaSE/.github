@@ -48,7 +48,10 @@ The module has gained quite some traction and has been downloaded more than 600 
 
 ### [PSSecretScanner](https://github.com/bjompen/PSSecretScanner)
 Share code, not secrets.  
-Scan your code, files, folders, and repos for accidentily exposed secrets using PowerShell. Don't be the next headline in the news.  
+Scan your code, files, folders, and repos for accidentily exposed secrets using PowerShell. Don't be the next headline in the news.
+
+### [Virtual WAN Playground](https://github.com/StefanIvemo/vwan-playground)
+A repo with Bicep templates to quickly build a full Azure Virtual WAN environment with multiple hubs and sites.
 
 ## Projects members of this team are common contributors to
 
