@@ -27,6 +27,10 @@ A PowerShell module based on the Azure Data Tables SDK.
 The fastest way to use Azure Storage Tables from PowerShell?  
 https://www.powershellgallery.com/packages/AzBobbyTables
 
+### [AzExpression](https://github.com/SimonWahlin/AzExpression)
+A PowerShell module that allows you to run ARM template functions locally in PowerShell.
+https://www.powershellgallery.com/packages/AzExpression
+
 ### [ADOPS](https://github.com/AZDOPS/AZDOPS)
 A PowerShell module for creating and maintaining Azure DevOps environments.  
 https://www.powershellgallery.com/packages/ADOPS
