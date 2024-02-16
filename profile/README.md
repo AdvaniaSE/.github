@@ -27,10 +27,6 @@ A PowerShell module based on the Azure Data Tables SDK.
 The fastest way to use Azure Storage Tables from PowerShell?  
 https://www.powershellgallery.com/packages/AzBobbyTables
 
-### [AzExpression](https://github.com/SimonWahlin/AzExpression)
-A PowerShell module that allows you to run ARM template functions locally in PowerShell.
-https://www.powershellgallery.com/packages/AzExpression
-
 ### [ADOPS](https://github.com/AZDOPS/AZDOPS)
 A PowerShell module for creating and maintaining Azure DevOps environments.  
 https://www.powershellgallery.com/packages/ADOPS
@@ -41,10 +37,6 @@ We like to think of this as an unofficial Bicep SDK. BicepNet is a thin wraper a
 Consists of two parts:
 * A .NET library (BicepNet.Core) that is a thin wrapper around Bicep that exposes features of bicep as static methods, like for example Build() and Decompile().
 * A PowerShell module (BicepNet.PS) that loads all Bicep assemblies in a separate assembly load context to avoid conflicts with other modules.
-
-### [MyTesla](https://github.com/SimonWahlin/MyTesla)
-Want to automate your Tesla from PowerShell? MyTesla is a module that allows you to do just that.
-Goal is to support all features that is available in the Tesla mobile app.
 
 ### [PSBicep](https://github.com/PSBicep/PSBicep)
 This is a community project created to enable the features provided by the Bicep CLI in PowerShell. The module provides the same functionality as Bicep CLI, plus some additional features to simplify the Bicep authoring experience.  
