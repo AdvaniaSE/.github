@@ -18,36 +18,13 @@ Labs for our PowerShell Advanced Fundamentals course.
 
 ## Other projects members of the team maintains
 
-### [AzAuth](https://github.com/PalmEmanuel/AzAuth)
-A lightweight PowerShell module to handle Azure authentication, using the Azure.Identity library.
-https://www.powershellgallery.com/packages/AzAuth
-
-### [AzBobbyTables](https://github.com/PalmEmanuel/AzBobbyTables)
-A PowerShell module based on the Azure Data Tables SDK.
-The fastest way to use Azure Storage Tables from PowerShell?  
-https://www.powershellgallery.com/packages/AzBobbyTables
-
 ### [ADOPS](https://github.com/AZDOPS/AZDOPS)
 A PowerShell module for creating and maintaining Azure DevOps environments.  
 https://www.powershellgallery.com/packages/ADOPS
 
-### [BicepNet](https://github.com/PSBicep/BicepNet)
-We like to think of this as an unofficial Bicep SDK. BicepNet is a thin wraper around the underlaying Bicep packages, developed for the Bicep PowerShell module but could be used for any other project that wants to leverage Bicep functionality in PowerShell or .NET.
-
-Consists of two parts:
-* A .NET library (BicepNet.Core) that is a thin wrapper around Bicep that exposes features of bicep as static methods, like for example Build() and Decompile().
-* A PowerShell module (BicepNet.PS) that loads all Bicep assemblies in a separate assembly load context to avoid conflicts with other modules.
-
-### [PSBicep](https://github.com/PSBicep/PSBicep)
-This is a community project created to enable the features provided by the Bicep CLI in PowerShell. The module provides the same functionality as Bicep CLI, plus some additional features to simplify the Bicep authoring experience.  
-The module has gained quite some traction and has been downloaded more than 600 000 times.
-
 ### [PSSecretScanner](https://github.com/bjompen/PSSecretScanner)
 Share code, not secrets.  
 Scan your code, files, folders, and repos for accidentily exposed secrets using PowerShell. Don't be the next headline in the news.
-
-### [Virtual WAN Playground](https://github.com/StefanIvemo/vwan-playground)
-A repo with Bicep templates to quickly build a full Azure Virtual WAN environment with multiple hubs and sites.
 
 ## Projects members of this team are common contributors to
 
